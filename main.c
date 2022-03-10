@@ -3,6 +3,6 @@
 
 int main()
 {
-    printf("lab\n");
+    printf("Lab hiiv!\n");
     return 0;
 }
